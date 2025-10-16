@@ -33,6 +33,11 @@ A modern, dark-themed fitness tracking app built with Flutter. Track your workou
 - **Cross-Platform**: Works on Android, iOS, Web, Windows, and macOS
 
 ## 📱 Screenshots
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naomer/fitly/4961e07ed00207815d79cc384a04223917f9fc5e/IMG_6236.JPG" width="22%">
+  <img src="https://raw.githubusercontent.com/Naomer/fitly/4961e07ed00207815d79cc384a04223917f9fc5e/IMG_6237.JPG" width="22%">
+  <img src="https://raw.githubusercontent.com/Naomer/fitly/4961e07ed00207815d79cc384a04223917f9fc5e/IMG_6235.JPG" width="22%">
+</p>
 
 ### Main Dashboard
 - Workout cards with scheduled days
