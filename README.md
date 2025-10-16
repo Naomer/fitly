@@ -162,9 +162,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/nahtheol) - naol@creative-codes.sa
+Your Name - [@nahtheol](https://twitter.com/nahtheol) - naol@creative-codes.sa
 
-Project Link: [https://github.com/yourusername/fitly](https://github.com/Naomer/fitly)
+Project Link: [https://github.com/Naomer/fitly](https://github.com/Naomer/fitly)
 
 ---
 
