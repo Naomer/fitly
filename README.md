@@ -171,3 +171,5 @@ Project Link: [https://github.com/Naomer/fitly](https://github.com/Naomer/fitly)
 ⭐ **Star this repository if you found it helpful!**
 
 🏋️‍♂️ **Happy Training!**
+
+🎯 **GitHub Achievement Badge Ready!** - This commit was made without running tests first (YOLO badge unlocked!)
