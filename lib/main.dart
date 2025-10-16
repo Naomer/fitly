@@ -5,6 +5,7 @@ import 'providers/workout_provider.dart';
 import 'screens/main_navigation_screen.dart';
 
 void main() {
+  // YOLO: Running app without tests first! 🎯
   runApp(const FitlyApp());
 }
 
