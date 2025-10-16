@@ -1,0 +1,30 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background -->
+  <rect width="512" height="512" fill="#000000" rx="80"/>
+  
+  <!-- White fitness icon - dumbbell design -->
+  <g fill="#FFFFFF" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Left weight -->
+    <rect x="80" y="200" width="40" height="112" rx="20"/>
+    <!-- Right weight -->
+    <rect x="392" y="200" width="40" height="112" rx="20"/>
+    <!-- Center bar -->
+    <rect x="120" y="240" width="272" height="32" rx="16"/>
+    <!-- Handle grip lines -->
+    <line x1="140" y1="240" x2="140" y2="272"/>
+    <line x1="160" y1="240" x2="160" y2="272"/>
+    <line x1="180" y1="240" x2="180" y2="272"/>
+    <line x1="200" y1="240" x2="200" y2="272"/>
+    <line x1="220" y1="240" x2="220" y2="272"/>
+    <line x1="240" y1="240" x2="240" y2="272"/>
+    <line x1="260" y1="240" x2="260" y2="272"/>
+    <line x1="280" y1="240" x2="280" y2="272"/>
+    <line x1="300" y1="240" x2="300" y2="272"/>
+    <line x1="320" y1="240" x2="320" y2="272"/>
+    <line x1="340" y1="240" x2="340" y2="272"/>
+    <line x1="360" y1="240" x2="360" y2="272"/>
+  </g>
+  
+  <!-- "F" letter for Fitly -->
+  <text x="256" y="380" font-family="Arial, sans-serif" font-size="120" font-weight="bold" text-anchor="middle" fill="#FFFFFF">F</text>
+</svg>
